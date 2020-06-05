@@ -2,11 +2,13 @@
 
 ## To Install
 
-Make sure that module in requirement.txt are installed.
+Make sure that modules in requirement.txt are installed.
 
-The modul gmmreg has to be installed manualy, instruction can be found at https://github.com/bing-jian/gmmreg-python (Installation instruction can be found in the READ ME of the Repository.)
+The module gmmreg has to be installed mannualy, instruction can be found at https://github.com/bing-jian/gmmreg-python (Installation instructions in the READ ME of the Repository.)
 
 ## To Run
+
+Create two folder at root level: data and produced. 
 
 Result of the segmentation of the file to track has to be in the data folder.
 
