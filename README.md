@@ -10,7 +10,7 @@ The module gmmreg has to be installed mannualy, instruction can be found at http
 
 Create two folder at root level: data and produced. 
 
-Result of the segmentation of the file to track has to be in the data folder.
+Csv file of the segmentation to be tracked has to be in the data folder.
 
 ***Tracking*** notebook shows example of run of the algorithm. 
 
