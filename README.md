@@ -10,7 +10,7 @@ Running this Requires to install:
 
 ## To Run
 
-The Notebook to use is currently ***Tracking*** 
+***Tracking*** notebook shows example of run of the algorithm. 
 
 
 ## Reference
